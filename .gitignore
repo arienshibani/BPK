@@ -1,0 +1,13 @@
+# The following files and directories will be ignored by git's version system because they can be derived from the source files.
+
+# Ignore Dependency Directories
+node_modules/
+jspm_packages/
+
+# Ignore Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+private
