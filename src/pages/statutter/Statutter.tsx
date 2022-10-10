@@ -191,6 +191,14 @@ const Statutter: React.FC<InfoProps> = () => {
                 etter endt engasjement. Denne skrives av styrets nestleder i
                 samråd med BPKs sittende leder.
               </p>
+
+              <p>
+                29. Styret, og klubben BPK praktiserer mobbefri helg annenhver uke. 
+                <br/>
+                <ul>
+                  <li><b>Partalls uker</b> = Mobbefri Helg</li>
+                </ul>
+              </p>
             </Card.Body>
           </Accordion.Collapse>
         </Card>

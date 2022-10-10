@@ -13,9 +13,9 @@ const CardWrapper: React.FC<EventsInterface> = ({
     <>
       <Card style={{ textAlign: "center", width: "100%" }}>
         <Card.Body>
-          <Card.Title>{title}</Card.Title>
+          <Card.Title>BPK vs. {title}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted"></Card.Subtitle>
-          <Card.Text>{eventDate.toLocaleDateString()}</Card.Text>
+          <Card.Text>{new Date(eventDate).toLocaleDateString()}</Card.Text>
           <Card.Link href={eventAdress}>{text}</Card.Link>
         </Card.Body>
       </Card>
