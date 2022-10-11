@@ -3,7 +3,7 @@
 [![React !](https://badges.aleen42.com/src/react.svg)](https://shibaniphoto.web.app/)
 [![npm !](https://badges.aleen42.com/src/npm.svg)](https://www.npmjs.com/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:aaari94@gmail.com)
 
-Website made for CS:GO team Bleikemyr Pistol Klubb
+Website made for the E-sports club Bleikemyr Pistol Klubb. Built with TypeScript and Bootstrap.
 
 # Development
 
@@ -21,12 +21,5 @@ Open a terminal in the repository's folder and execute the following:
 # Deployment
 
 - Simply `git push` any changes to update production.
-  - Builds to [Firebase](https://firebase.google.com/docs) on each commit.
+  - Automatic deployments with [Vecel](https://vercel.com/) on each commit to main.
 
-```yaml
-    - pipe: atlassian/firebase-deploy:1.2.0
-        variables:
-            PROJECT_ID: $FIREBASE_PROJECT
-            FIREBASE_TOKEN: $FIREBASE_TOKEN
-            MESSAGE: 'Deploying BPK to prod.'
-```
