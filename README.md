@@ -1,4 +1,4 @@
-# BPK Website [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]([bpk-krzb.vercel.app](https://bpk-krzb.vercel.app/))
+# BPK Website [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bpk-krzb.vercel.app/)
 
 [![React !](https://badges.aleen42.com/src/react.svg)](www.react.com)
 [![npm !](https://badges.aleen42.com/src/npm.svg)](https://www.npmjs.com/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:aaari94@gmail.com)
